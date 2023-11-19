@@ -1,0 +1,15 @@
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #F9F7A2;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="141.73" height="141.73" rx="42.52"/>
+  <path class="cls-2" d="M117.47,63.5,46,22.24a8.5,8.5,0,0,0-12.75,7.37v82.52A8.5,8.5,0,0,0,46,119.49l71.47-41.26A8.5,8.5,0,0,0,117.47,63.5Z"/>
+</svg>
